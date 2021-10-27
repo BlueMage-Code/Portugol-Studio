@@ -1,3 +1,9 @@
+/*6) Faça um programa que leia um numero inteiro e mostre o seu antecessor e seu
+sucessor.
+Ex:
+Digite um numero: 9
+O antecessor de 9 e 8
+O sucessor de 9 e 10 */
 programa {
 	funcao inicio() {
 	    inteiro a, b, c 
